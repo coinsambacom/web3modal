@@ -1,5 +1,5 @@
 {
-  "name": "web3modal",
+  "name": "@coinsamba/web3modal",
   "version": "1.9.4",
   "description": "A single Web3 / Ethereum provider solution for all Wallets",
   "keywords": [
@@ -29,13 +29,13 @@
   "files": [
     "dist"
   ],
-  "homepage": "https://github.com/web3modal/web3modal",
+  "homepage": "https://github.com/coinsambacom/web3modal",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/web3modal/web3modal.git"
+    "url": "git+https://github.com/coinsambacom/web3modal.git"
   },
   "bugs": {
-    "url": "https://github.com/web3modal/web3modal/issues"
+    "url": "https://github.com/coinsambacom/web3modal/issues"
   },
   "scripts": {
     "clean": "rm -rf dist",
